@@ -1,4 +1,12 @@
 ---
+layout: post
+title: "5-Day Athletic Diet Plan"
+date: 2026-05-29
+categories: [nutrition, training]
+tags: [diet, muay-thai, volleyball, strength-training, recovery]
+---
+
+---
 title: 5-Day Athletic Diet Plan
 layout: default
 ---
